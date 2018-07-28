@@ -6,14 +6,14 @@
 kind: "lesson"
 
 # Overall title for pages.
-title: "Lesson template for Neurohackweek"
+title: "Convolutional neural networks"
 
 # Repository URL (without trailing slash).
-repo: https://github.com/neurohackweek/lesson-template
+repo: https://github.com/neurohackademy/convolutional-neural-networks
 
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://neurohackweek.github.io/lesson-example', use '/lesson-example'.
-root: "/lesson-template"
+root: "/convolutional-neural-networks"
 
 # Contact email address.
 email: arokem@uw.edu
@@ -26,8 +26,8 @@ email: arokem@uw.edu
 is_production: true
 
 # Sites.
-nhw_site: "https://neurohackweek.github.io"
-nhw_github: "https://github.com/neurohackweek"
+nhw_site: "https://neurohackademy.github.io"
+nhw_github: "https://github.com/neurohackademy"
 swc_site: "https://software-carpentry.org"
 dc_site: "http://datacarpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
