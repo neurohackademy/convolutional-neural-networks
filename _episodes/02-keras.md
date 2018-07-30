@@ -3,15 +3,17 @@ title: "Keras"
 teaching: 5
 exercises: 5
 questions:
-- ""
+- "How do we classify images with a neural network?"
+- "How can we build neural networks with Keras?"
+- "How are models fit and evaluated in Keras?"
 objectives:
-- ""
+- "Implement a neural network that classifies clothing categories from images"
 keypoints:
-- ""
-- ""
+- "Building neural networks with Keras is straightforward"
+- "We need to use training, validation, testing datasets to avoid over-fitting"
 ---
 
-###
+### Image classification
 
 Consider the task of classifying images of clothing. We have three classes
 of images: Dresses, t-shirts an shoes
