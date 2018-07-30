@@ -39,7 +39,9 @@ Some of the factors that ushered in the current golden age of artificial
 neural networks are:
 
 1. Development of hardware and software to implement large neural
-   networks
+   networks. An important part of this is work that made computing some
+   of the fundamental operations in neural networks very fast on
+   graphical processing units (GPUs).
 2. The availability of large datasets for training these algorithms
 3. Theoretical developments across a wide range of fields, including
    ideas closely related to the structure of these networks, but also in
